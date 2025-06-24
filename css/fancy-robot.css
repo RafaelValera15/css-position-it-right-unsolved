@@ -67,13 +67,15 @@
 }
 
 .robot-nose {
-  width: 80px;
-  height: 40px;
+  width: 25%;
+  height: 10%;
   border-radius: 32% 15%;
   position: absolute;
   top: 250px;
-  left: 40%;
-  border: darkcyan 2px solid;
+  left: 38%;
+  border: white 3px solid;
+  background-color: teal;
+  opacity: 65%;
   }
 
 .robot-teeth {
